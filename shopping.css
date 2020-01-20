@@ -1,0 +1,14 @@
+#prodlist {
+  position: absolute;
+  width: 50%;
+}
+
+#results {
+  position: absolute;
+  left: 55%;
+  width: 50%;
+}
+
+.right {
+  text-align: right;
+}
